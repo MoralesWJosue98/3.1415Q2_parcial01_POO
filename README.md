@@ -1,1 +1,2 @@
-# 3.1415Q2_parcial01_POO
+# Parcial POO
+Calculadora de Impuestos y Salarios
